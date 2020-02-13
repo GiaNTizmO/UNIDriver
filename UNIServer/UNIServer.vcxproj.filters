@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="packet_handler.cpp" />
+    <ClCompile Include="server.cpp" />
+    <ClCompile Include="ksocket\berkeley.c" />
+    <ClCompile Include="ksocket\ksocket.c" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="log.h" />
+    <ClInclude Include="modul\PEStructs.h" />
+    <ClInclude Include="server_shared.h" />
+    <ClInclude Include="modul\Imports.h" />
+    <ClInclude Include="modul\NativeEnums.h" />
+    <ClInclude Include="modul\NativeStructs.h" />
+    <ClInclude Include="modul\NativeStructs7.h" />
+    <ClInclude Include="modul\NativeStructs8.h" />
+    <ClInclude Include="modul\NativeStructs10.h" />
+    <ClInclude Include="modul\NativeStructs81.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="stdint.h" />
+    <ClInclude Include="ksocket\berkeley.h" />
+    <ClInclude Include="ksocket\ksocket.h" />
+    <ClInclude Include="sockets.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Inf Include="UNIServer.inf" />
+  </ItemGroup>
+</Project>

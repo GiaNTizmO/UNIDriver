@@ -1,0 +1,6 @@
+D:\UNIDriver\Compiled\UNIUserMode.exe.config
+D:\UNIDriver\Compiled\UNIUserMode.exe
+D:\UNIDriver\Compiled\UNIUserMode.pdb
+D:\UNIDriver\UNIUserMode\UNIUserMode\obj\Release\UNIUserMode.csprojAssemblyReference.cache
+D:\UNIDriver\UNIUserMode\UNIUserMode\obj\Release\UNIUserMode.exe
+D:\UNIDriver\UNIUserMode\UNIUserMode\obj\Release\UNIUserMode.pdb

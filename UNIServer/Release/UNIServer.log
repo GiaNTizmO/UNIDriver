@@ -1,0 +1,39 @@
+﻿  Building 'UNIServer' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Stamping Release\UNIServer.inf
+  Stamping [Version] section with DriverVer=02/14/2020,0.30.22.45
+  berkeley.c
+  ksocket.c
+  Создание кода...
+  Компиляция...
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\km\crt\vadefs.h(72,29): error C2371: uintptr_t: переопределение; различные базовые типы
+D:\UNIDriver\UNIServer\log.h(2): message : см. объявление "uintptr_t"
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(174,45): error C2034: _HANDLE_TABLE_ENTRY::<unnamed-tag>::ObjectPointerBits: тип битового поля слишком мал для заданного числа битов
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(952,61): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(953,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(954,69): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(955,66): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(956,66): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(957,62): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(958,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(959,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(960,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(961,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(962,69): error C2118: отрицательный индекс
+  packet_handler.cpp
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(174,45): error C2034: _HANDLE_TABLE_ENTRY::<unnamed-tag>::ObjectPointerBits: тип битового поля слишком мал для заданного числа битов
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(952,61): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(953,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(954,69): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(955,66): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(956,66): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(957,62): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(958,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(959,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(960,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(961,68): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\modul\NativeStructs.h(962,69): error C2118: отрицательный индекс
+D:\UNIDriver\UNIServer\packet_handler.cpp(44,21): warning C4018: <=: несоответствие типов со знаком и без знака
+  server.cpp
+  Создание кода...

@@ -1,0 +1,7 @@
+﻿  driver.cpp
+D:\UNIDriver\UNIClient\driver.cpp(43,35): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+D:\UNIDriver\UNIClient\driver.cpp(123,20): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+     Создается библиотека D:\UNIDriver\UNIUserMode\x64\Debug\UNIClient.lib и объект D:\UNIDriver\UNIUserMode\x64\Debug\UNIClient.exp
+  UNIClient.vcxproj -> D:\UNIDriver\UNIUserMode\x64\Debug\UNIClient.dll

@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  driver.cpp
+D:\UNIDriver\UNIClient\driver.cpp(43,35): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+D:\UNIDriver\UNIClient\driver.cpp(123,20): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+     Создается библиотека D:\UNIDriver\Compiled\UNIClient.lib и объект D:\UNIDriver\Compiled\UNIClient.exp
+  LINK : указан параметр /LTCG, но не требуется создание кода; удалите /LTCG из командной строки компоновки для повышения производительности компоновщика
+  UNIClient.vcxproj -> D:\UNIDriver\Compiled\UNIClient.dll

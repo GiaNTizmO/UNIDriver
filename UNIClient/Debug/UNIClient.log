@@ -1,0 +1,17 @@
+﻿  driver.cpp
+D:\UNIDriver\UNIClient\driver.cpp(123,20): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+D:\UNIDriver\UNIClient\main.cpp(12,45): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(17,47): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(21,48): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(26,48): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(31,46): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(36,46): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(43,39): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(48,41): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(53,40): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(58,40): warning C4244: аргумент: преобразование "UINT64" в "const uintptr_t", возможна потеря данных
+D:\UNIDriver\UNIClient\main.cpp(69,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+     Создается библиотека D:\UNIDriver\UNIUserMode\Debug\UNIClient.lib и объект D:\UNIDriver\UNIUserMode\Debug\UNIClient.exp
+  UNIClient.vcxproj -> D:\UNIDriver\UNIUserMode\Debug\UNIClient.dll
