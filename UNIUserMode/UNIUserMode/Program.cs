@@ -15,12 +15,12 @@ namespace UNIUserMode
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите ID процесса: ");
+            Console.WriteLine("Enter PID: ");
             int id = int.Parse(Console.ReadLine());
-            Console.WriteLine("Введите имя модуля: ");
+            Console.WriteLine("Enter name DLL (Must be placed with executables: ");
             string nameModule = Console.ReadLine();
             Init();
-            Console.WriteLine($"Адрес: {GetBaseAddress(id, $"{nameModule}w")}");
+            Console.WriteLine($"Address at: {GetBaseAddress(id, $"{nameModule}w")}");
             Console.Read();
         }
     }
